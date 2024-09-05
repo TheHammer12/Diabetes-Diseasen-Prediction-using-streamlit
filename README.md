@@ -39,8 +39,7 @@ Follow these steps to set up and run the Diabetes Checkup application on your lo
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/diabetes-checkup.git
-cd diabetes-checkup
+git clone(https://github.com/swapnil77122/Diabetes-Diseasen-Prediction-using-streamlit.git)
 ```
 
 ### Install Dependencies
