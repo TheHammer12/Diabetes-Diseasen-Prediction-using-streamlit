@@ -68,9 +68,6 @@ Alternatively, install the packages individually:
 pip install streamlit pandas scikit-learn numpy matplotlib plotly seaborn pillow
 ```
 
-### Download the Dataset
-
-Ensure that the `diabetes.csv` file is placed in the root directory of the project. If you don't have the dataset, you can download it from [Kaggle's Pima Indians Diabetes Dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
 
 ## Usage
 
@@ -173,4 +170,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-*Developed with ❤️ by [Your Name](https://github.com/yourusername)*
+
